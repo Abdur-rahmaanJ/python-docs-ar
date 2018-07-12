@@ -1,6 +1,25 @@
 Arabic Translation of the Python Documentation
 ==============================================
 
+Target
+------
+
+Finish tutorials translations
+
+Telling on what file you are working on
+---------------------------------------
+
+open an issue
+
+Current Assignments
+-------------------
+
+========================== ========================== ==========================
+Name                       Assigned to                Status
+========================== ========================== ==========================
+appendix                   @Abdur-rahmaanj
+========================== ========================== ==========================
+
 Contributing to the Translation
 -------------------------------
 
