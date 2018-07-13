@@ -108,10 +108,6 @@ You may also have noted you never ever commit on a version branch
 (``3.6``, ``3.7``, ...), only pull from them, consider them read-only
 you'll avoid problems.
 
-Before commiting, you should use `grammalecte
-<https://www.dicollecte.org/>`_ to check for your translations.
-
-
 What to translate
 ~~~~~~~~~~~~~~~~~
 
@@ -145,7 +141,11 @@ Feel free to ask your questions on the ``#python-docs`` channel on `freenode
 Translation Resources
 ---------------------
 
-[TOADD]
+`Microsoft Portal <www.microsoft.com/en-us/language/Search>`_ 
+
+`The Al-Kilani Dictionary of Computer & Internet Terminology (En/Ar) <http://www.ldlp-dictionary.com/home/words/99/>`_ 
+
+`Al ma'aanii <https://www.almaany.com/en/dict/ar-en/buffer/>`_ .
 
 
 Glossary
