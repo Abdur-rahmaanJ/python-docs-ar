@@ -46,8 +46,7 @@ Prerequisites:
 
 Let's start:
 
-You'll need to fork the `python-docs-fr
-<https://github.com/python/python-docs-fr>`_ clicking its ``Fork``
+You'll need to fork the `py-docs-ar<https://github.com/Abdur-rahmaanJ/py-docs-ar>`_ clicking its ``Fork``
 button. This creates a copy of the whole project on your github
 account: a place where you have the rights to do modifications.
 
@@ -56,7 +55,7 @@ Step by step:
 .. code-block:: bash
 
     # Git clone your github fork using ssh (replace JulienPalard):
-    git clone git@github.com:JulienPalard/python-docs-fr.git
+    git clone git@github.com:Abdur-RahmaanJ/py-docs-ar.git
 
     # Go to the cloned directory:
     cd py-docs-ar/
