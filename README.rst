@@ -159,11 +159,11 @@ Term                       Proposed Translation
 ========================== ===========================================
 -like                      
 abstract data type         
-argument                   
+argument                   وسيطة
 backslash                  
 bound                      
-bug                        
-built-in                   
+bug                        خطأ
+built-in                   مضمن 
 call stack                 
 debugging                  
 double quote               
