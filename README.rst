@@ -140,7 +140,7 @@ Feel free to ask your questions on the ``#python-docs`` channel on `freenode
 Translation Resources
 ---------------------
 
-`Microsoft Portal <www.microsoft.com/en-us/language/Search>`_ 
+`Microsoft Portal <http://www.microsoft.com/en-us/language/Search>`_ 
 
 `The Al-Kilani Dictionary of Computer & Internet Terminology (En/Ar) <http://www.ldlp-dictionary.com/home/words/99/>`_ 
 
