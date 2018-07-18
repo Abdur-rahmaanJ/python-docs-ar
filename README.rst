@@ -170,7 +170,7 @@ double quote
 e.g.                       
 garbage collector          
 identifier                 
-immutable                  
+immutable                  غير قابل للتغيير
 interpreter                
 library                    
 list comprehension         
