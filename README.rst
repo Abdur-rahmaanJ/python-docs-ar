@@ -163,14 +163,14 @@ argument                   وسيطة
 backslash                  
 bound                      
 bug                        خطأ
-built-in                   مضمن 
+built-in                   مبني داخليا 
 call stack                 
-debugging                  
-double quote               
+debugging                  اصلاح الاخطاء
+double quote               علامة اقتباس مزدوجة
 e.g.                       
-garbage collector          
-identifier                 
-immutable                  غير قابل للتغيير
+garbage collector          جامع المهملات
+identifier                 معرّف
+immutable                  محمي من التغيير
 interpreter                
 library                    
 list comprehension         
@@ -225,27 +225,3 @@ Maintenance
 -----------
 
 TOADD
-
-
-Merge pot files from CPython
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-TOADD
-
-
-Find fuzzy strings
-~~~~~~~~~~~~~~~~~~
-
-TOADD
-
-
-Run a test build locally
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-TOADD
-
-
-Synchronize translation with Transifex
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-NOTYET
