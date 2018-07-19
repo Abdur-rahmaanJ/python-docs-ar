@@ -171,11 +171,11 @@ e.g.
 garbage collector          جامع المهملات
 identifier                 معرّف
 immutable                  محمي من التغيير
-interpreter                
-library                    
+interpreter                مفسر
+library                    مكتبة
 list comprehension         
 little-endian, big-endian  
-mutable                    
+mutable                    قابل للتغيير
 namespace                  
 parameter                  
 prompt                     
@@ -186,7 +186,7 @@ simple quote
 socket                     
 statement                  
 thread                     
-underscore                 
+underscore                 شرطة سفلية
 ========================== ===========================================
 
 
