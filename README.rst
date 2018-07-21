@@ -184,7 +184,7 @@ regular expression
 return                     
 simple quote               
 socket                     
-statement                  
+statement                  الجمل البرمجية
 thread                     
 underscore                 شرطة سفلية
 ========================== ===========================================
