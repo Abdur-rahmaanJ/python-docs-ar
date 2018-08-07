@@ -2,7 +2,7 @@ Arabic Translation of the Python Documentation
 ==============================================
 
 Target
-------
+------ KICKSTARTING 2019 JAN
 
 Finish tutorials translations
 
