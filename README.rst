@@ -8,17 +8,12 @@ Finish tutorials translations at https://docs.python.org/3/tutorial/index.html
 Telling on what file you are working on
 ---------------------------------------
 
-open an issue
+open an issue if you wish to reserve a section
 
-Current Assignments
--------------------
+How
+---
 
-========================== ========================== ==========================
-Name                       Assigned to                Status
-========================== ========================== ==========================
-appendix                   @Abdur-rahmaanj
-========================== ========================== ==========================
-
+see for example intro.md, just write the arabic below the english
 
 Where to get help
 ~~~~~~~~~~~~~~~~~
