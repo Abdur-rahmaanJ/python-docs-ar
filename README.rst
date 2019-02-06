@@ -26,7 +26,7 @@ Where to get help
 
 The coordinator for this translation is normally https://github.com/abdur-rahmaanj
 
-Native check [@Abdur-RahmaanJ](https://github.com/abdur-rahmaanj)
+Native check https://github.com/fadam003
 
 Feel free to ask your questions on the ``#python-docs`` channel on `freenode
 <https://webchat.freenode.net/>`_ (does not require registration) or the
