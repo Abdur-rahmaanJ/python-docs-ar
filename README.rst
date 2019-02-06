@@ -27,6 +27,8 @@ The coordinator for this translation is normally https://github.com/abdur-rahmaa
 
 Native check https://github.com/fadam003
 
+for other langs view here : https://mdk.fr/blog/python-documentation-translation.html
+
 Feel free to ask your questions on the ``#python-docs`` channel on `freenode
 <https://webchat.freenode.net/>`_ (does not require registration) or the
 `AFPy traductions mailing list <https://lists.afpy.org/mailman/listinfo/traductions>`_.
