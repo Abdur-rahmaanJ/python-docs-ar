@@ -90,31 +90,6 @@ Project History
 TOADD
 
 
-Simplify git diffs
-------------------
-
-Git diffs are often crowded with useless line number changes, like:
-
-.. code-block:: diff
-
-    -#: ../Doc/library/signal.rst:406
-    +#: ../Doc/library/signal.rst:408
-
-To tell git they are not usefull information, you can do the following
-after ensuring ``~/.local/bin/`` is in your ``PATH``.
-
-.. code-block:: bash
-
-    cat <<EOF > ~/.local/bin/podiff
-    #!/bin/sh
-    grep -v '^#:' "\$1"
-    EOF
-
-    chmod a+x ~/.local/bin/podiff
-
-    git config diff.podiff.textconv podiff
-
-
 Maintenance
 -----------
 
