@@ -1,10 +1,9 @@
 Arabic Translation of the Python Documentation
 ==============================================
 
-Target
------- KICKSTARTING 2019 JAN
+Target : KICKSTARTING 2019 JAN
 
-Finish tutorials translations
+Finish tutorials translations at https://docs.python.org/3/tutorial/index.html
 
 Telling on what file you are working on
 ---------------------------------------
