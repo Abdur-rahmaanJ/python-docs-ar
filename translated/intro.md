@@ -13,19 +13,19 @@
  بايثون هي أيضا مناسبة كلغة الإضافة للتطبيقات القابلة للتخصيص.
 
 
-This tutorial introduces the reader informally to the basic concepts and features of the Python language and system. It helps to have a Python interpreter handy for hands-on experience, but all examples are self-contained, so the tutorial can be read off-line as well.
+يقدم هذا البرنامج التعليمي القارئ بشكل غير رسمي للمفاهيم والميزات الأساسية للغة ونظام بايثون. من المفيد أن يكون لديك مترجم لغوي بايثون مفيدًا للتجارب العملية ، ولكن جميع الأمثلة مكتفية بذاتها ، لذلك يمكن قراءة البرنامج التعليمي خارج الإنترنت أيضًا
 
-For a description of standard objects and modules, see The Python Standard Library. The Python Language Reference gives a more formal definition of the language. To write extensions in C or C++, read Extending and Embedding the Python Interpreter and Python/C API Reference Manual. There are also several books covering Python in depth.
+للحصول على وصف للكائنات والوحدات القياسية ، راجع مكتبة بيثون القياسية. يعطي مرجع لغة بيثون تعريفًا أكثر رسمية للغة. لكتابة الامتدادات في سي أو سي بلس بلس ، قم بقراءة موسع مترجم لغوي و بيثون / سي API. هناك أيضا العديد من الكتب التي تغطي بيثون في العمق.
 
-This tutorial does not attempt to be comprehensive and cover every single feature, or even every commonly used feature. Instead, it introduces many of Python’s most noteworthy features, and will give you a good idea of the language’s flavor and style. After reading it, you will be able to read and write Python modules and programs, and you will be ready to learn more about the various Python library modules described in The Python Standard Library.
+لا تحاول هذه الدورة التعليمية أن تكون شاملة وتغطي كل ميزة مفردة ، أو حتى كل ميزة شائعة الاستخدام. بدلاً من ذلك ، يقدم العديد من ميزات بيثون الأكثر جدارة بالاهتمام ، وسوف يعطيك فكرة جيدة عن نكهة اللغة وأسلوبها. بعد قراءته ، ستتمكن من قراءة وحدات وبرامج بيثون وكتابتها ، وستكون مستعدًا لمعرفة المزيد عن وحدات مكتبة بيثون المختلفة الموضحة في مكتبة بيثون القياسية
 
-The Glossary is also worth going through.
+المصطلحات تستحق الزيارة أيضًا
 
-1. Whetting Your Appetite
+1. مشحذ شهيتك
 
-2. Using the Python Interpreter
+2. استخدام مترجم بيثون
 
-2.1. Invoking the Interpreter
+2.1. استدعاء المترجم
 
 2.1.1. Argument Passing
 
