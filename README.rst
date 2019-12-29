@@ -1,32 +1,16 @@
 Arabic Translation of the Python Documentation
 ==============================================
 
-Target : KICKSTARTING 2019 JAN
-
-Finish tutorials translations at https://docs.python.org/3/tutorial/index.html
-
-Telling on what file you are working on
----------------------------------------
-
-open an issue if you wish to reserve a section
-
-How
----
-
-see for example intro.md, just write the arabic below the english
+Use `POedit software <https://poedit.net>`_ to translate .po files in the tutorial folder.
 
 Where to get help
 ~~~~~~~~~~~~~~~~~
 
-The coordinator for this translation is normally https://github.com/abdur-rahmaanj
+Abdur-Rahmaan Janhangeer <arj.python@gmail.com>
 
-Native check https://github.com/fadam003
+Fatima Adam <xdjango37@gmail.com>
 
-for other langs view here : https://mdk.fr/blog/python-documentation-translation.html
-
-Feel free to ask your questions on the ``#python-docs`` channel on `freenode
-<https://webchat.freenode.net/>`_ (does not require registration) or the
-`AFPy traductions mailing list <https://lists.afpy.org/mailman/listinfo/traductions>`_.
+Mariam Maarouf <mrf.mariam@gmail.com>
 
 
 Translation Resources
