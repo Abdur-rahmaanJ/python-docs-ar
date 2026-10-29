@@ -6,9 +6,9 @@ msgstr ""
 "Project-Id-Version: Python 3.15\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-10-08 02:56-0700\n"
-"PO-Revision-Date: 2026-10-16 00:33-0700\n"
+"PO-Revision-Date: 2026-10-29 14:13-0700\n"
 "Last-Translator: Omar\n"
-"Language-Team: FRENCH <traductions@lists.afpy.org>\n"
+"Language-Team: ar <LL@li.org>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -24,45 +24,43 @@ msgstr "مقدمة غير رسمية لبايثون"
 
 #: ../../tutorial/introduction.rst:7
 msgid ""
-"In the following examples, input and output are distinguished by the presence "
-"or absence of prompts (:term:`>>>` and :term:`...`): to repeat the example, "
-"you must type everything after the prompt, when the prompt appears; lines that "
-"do not begin with a prompt are output from the interpreter. Note that a "
-"secondary prompt on a line by itself in an example means you must type a blank "
-"line; this is used to end a multi-line command."
+"In the following examples, input and output are distinguished by the presence or "
+"absence of prompts (:term:`>>>` and :term:`...`): to repeat the example, you must type "
+"everything after the prompt, when the prompt appears; lines that do not begin with a "
+"prompt are output from the interpreter. Note that a secondary prompt on a line by "
+"itself in an example means you must type a blank line; this is used to end a multi-"
+"line command."
 msgstr ""
-"في الامثلة التالية، يتم التمييز بين المخلات والمخرجات من خلال وجود أو غياب "
-"رموز التوجيه (:term:`>>>` و :term:`…`): لإعادة تكرير المثال، عليك كتابة كل شيء "
-"بعد الموجه بعد ظهوره؛ أما الخطوط التي لا تبدأ بالموجه فهي تمثل مخرجات المفسر. "
-"لاحظ أن ظهور الموجه الثانوي في خط مستقل في أحد الامثلة يعني أنه يتوجب عليك "
-"إدخال خط فارغ؛ ويستخدم هذا لإنهاء أمر متعدد الأسطر."
+"في الامثلة التالية، يتم التمييز بين المدخلات والمخرجات بوجود أو غياب الموجهين "
+"(:term:`>>>` و :term:`...`): لإعادة تكرار المثال، عليك كتابة كل شيء بعد الموجه عند "
+"ظهوره؛ أما الأسطر التي لا تبدأ بموجه فهي مخرجات المفسر. لاحظ أن ظهور الموجه الثانوي في "
+"خط مستقل في أحد الامثلة يعني أنه يتوجب عليك إدخال خط فارغ؛ ويستخدم هذا لإنهاء أمر "
+"متعدد الأسطر."
 
 #: ../../tutorial/introduction.rst:16
 msgid ""
-"You can use the \"Copy\" button (it appears in the upper-right corner when "
-"hovering over or tapping a code example), which strips prompts and omits "
-"output, to copy and paste the input lines into your interpreter."
+"You can use the \"Copy\" button (it appears in the upper-right corner when hovering "
+"over or tapping a code example), which strips prompts and omits output, to copy and "
+"paste the input lines into your interpreter."
 msgstr ""
-"يمكنك استخدام زر النسخ أو ال “Copy” (الذي يظهر في الزاوية العلوية اليمنى عند "
-"تمرير المؤشر فوق أو الضغط على مثال برمجي)، حيث يقوم بإزالة الموجهات وحذف "
-"المخرجات، مما يتيح لك نسخ ولصق الخطوط في المفسر الخاص بك."
+"يمكنك استخدام زر النسخ أو ال “Copy” (الذي يظهر في الزاوية العلوية اليمنى عند تمرير "
+"المؤشر فوق أو الضغط على مثال برمجي)، حيث يقوم بإزالة الموجهات وحذف المخرجات، مما يتيح "
+"لك نسخ ولصق الخطوط في المفسر الخاص بك."
 
 #: ../../tutorial/introduction.rst:22
 msgid ""
-"Many of the examples in this manual, even those entered at the interactive "
-"prompt, include comments.  Comments in Python start with the hash character, "
-"``#``, and extend to the end of the physical line.  A comment may appear at "
-"the start of a line or following whitespace or code, but not within a string "
-"literal.  A hash character within a string literal is just a hash character. "
-"Since comments are to clarify code and are not interpreted by Python, they may "
-"be omitted when typing in examples."
+"Many of the examples in this manual, even those entered at the interactive prompt, "
+"include comments.  Comments in Python start with the hash character, ``#``, and extend "
+"to the end of the physical line.  A comment may appear at the start of a line or "
+"following whitespace or code, but not within a string literal.  A hash character "
+"within a string literal is just a hash character. Since comments are to clarify code "
+"and are not interpreted by Python, they may be omitted when typing in examples."
 msgstr ""
-"تحتوي العديد من الأمثلة في هذا الكتيب, حتى تلك التي تكتب في الموجه التفاعلي، "
-"على تعليقات. تبدأ التعليقات في بايثون برمز المربع ``#`` وتمتد إلى نهاية الخط "
-"الفعلي. يمكن أن يظهر التعليق في بداية الخط أو بعد مسافة بيضاء أو بعد تعليمات "
-"برمجية، ولكن لا يمكن أن يوضع داخل سلسلة نصية. أن رمز المربع داخل سلسلة نصية "
-"يعامل فقط على أنه رمز مربع عادي. منذ أن غرض التعليقات هو توضيح التعليمات "
-"البرمجية ولا يقوم بايثون بتفسيرها، فيمكن الاستغناء عنها عند كتابة الأمثلة."
+"تحتوي أمثلة كثيرة في هذا الدليل, حتى تلك التي تكتب عند الموجه التفاعلي، على تعليقات. "
+"تبدأ تعليقات بايثون برمز المربع ``#`` وتمتد إلى نهاية السطر الفعلي. يمكن أن يظهر "
+"التعليق في بداية الخط أو بعد مسافة بيضاء أو تعليمات برمجية، ولكن ليس داخل سلسلة حرفية. "
+"إذا كان رمز المربع داخل سلسلة حرفية، فهو مجرد رمز مربع عادي. لأن التعليقات توضح "
+"التعليمات البرمجية ولا يفسرها بايثون، يمكن حذفها عند إدخال الأمثلة."
 
 #: ../../tutorial/introduction.rst:30
 msgid "Some examples::"
@@ -75,13 +73,6 @@ msgid ""
 "          # ... and now a third!\n"
 "text = \"# This is not a comment because it's inside quotes.\""
 msgstr ""
-"# هذا هو \n"
-" هذا التعليق‬\n"
-"‏‫spam = 1  # and this is the second comment\n"
-"‬\n"
-"‏‫          # ... and now a third!\n"
-"‬\n"
-"‏‫text = \"# This is not a comment because it's inside quotes.\""
 
 #: ../../tutorial/introduction.rst:41
 msgid "Using Python as a Calculator"
@@ -89,11 +80,11 @@ msgstr "استخدام بايثون كآلة حاسبة"
 
 #: ../../tutorial/introduction.rst:43
 msgid ""
-"Let's try some simple Python commands.  Start the interpreter and wait for the "
-"primary prompt, ``>>>``.  (It shouldn't take long.)"
+"Let's try some simple Python commands.  Start the interpreter and wait for the primary "
+"prompt, ``>>>``.  (It shouldn't take long.)"
 msgstr ""
-"هيا نستخدم بعض من أوامر بايثون البسيطة. ابدأ مفسر بايثون وانتظر الموجه "
-"الرئيسي، ``>>>``. (انه لن يستغرق وقتا طويلا.)"
+"هيا نستخدم بعض من أوامر بايثون البسيطة. ابدأ مفسر بايثون وانتظر الموجه الرئيسي، "
+"``>>>``. (انه لن يستغرق وقتا طويلا.)"
 
 #: ../../tutorial/introduction.rst:50
 msgid "Numbers"
@@ -101,15 +92,14 @@ msgstr "الأرقام"
 
 #: ../../tutorial/introduction.rst:52
 msgid ""
-"The interpreter acts as a simple calculator: you can type an expression into "
-"it and it will write the value.  Expression syntax is straightforward: the "
-"operators ``+``, ``-``, ``*`` and ``/`` can be used to perform arithmetic; "
-"parentheses (``()``) can be used for grouping. For example::"
+"The interpreter acts as a simple calculator: you can type an expression into it and it "
+"will write the value.  Expression syntax is straightforward: the operators ``+``, ``-"
+"``, ``*`` and ``/`` can be used to perform arithmetic; parentheses (``()``) can be "
+"used for grouping. For example::"
 msgstr ""
-"يعمل المفسر كآلة حاسبة بسيطة: يمكنك كتابة تعبير فيه وسيقوم بكتابة قيمته. صيغة "
-"التعبير مباشرة وبسيطة: من الممكن استخدام المعاملات ``+``و ``-``و ``*`` و ``/`` "
-"لإجراء الحسابات، كما يمكن استخدام الأقواس (``()``) لجمع العناصر. على سبيل "
-"المثال::"
+"يعمل المفسر كآلة حاسبة بسيطة: يمكنك كتابة تعبير فيه وسيقوم بكتابة قيمته. صيغة التعبير "
+"مباشرة وبسيطة: من الممكن استخدام المعاملات ``+``, ``-``, ``*`` و ``/`` لإجراء "
+"الحسابات؛ كما يمكن استخدام الأقواس (``()``) للتجميع. على سبيل المثال::"
 
 #: ../../tutorial/introduction.rst:58
 msgid ""
@@ -125,23 +115,23 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:67
 msgid ""
-"The integer numbers (e.g. ``2``, ``4``, ``20``) have type :class:`int`, the "
-"ones with a fractional part (e.g. ``5.0``, ``1.6``) have type :class:`float`.  "
-"We will see more about numeric types later in the tutorial."
+"The integer numbers (e.g. ``2``, ``4``, ``20``) have type :class:`int`, the ones with "
+"a fractional part (e.g. ``5.0``, ``1.6``) have type :class:`float`.  We will see more "
+"about numeric types later in the tutorial."
 msgstr ""
-"تصنف الأعداد الصحيحة (مثل ``2``, ``4``, ``20``) ضمن النوع :class:`int`, بينما "
-"تصنف الأعداد الكسرية (مثل `5.0``, ``1.6``) ضمن النوع :class:`float`. سنرى "
-"المزيد حول الأنواع العددية لاحقا في هذا الدرس."
+"تصنف الأعداد الصحيحة (مثل ``2``, ``4``, ``20``) ضمن النوع :class:`int`, بينما تصنف "
+"الأعداد الكسرية (مثل `5.0``, ``1.6``) ضمن النوع :class:`float`. سنرى المزيد حول "
+"الأنواع العددية لاحقا في هذا الدرس."
 
 #: ../../tutorial/introduction.rst:71
 msgid ""
-"Division (``/``) always returns a float.  To do :term:`floor division` and get "
-"an integer result you can use the ``//`` operator; to calculate the remainder "
-"you can use ``%``::"
+"Division (``/``) always returns a float.  To do :term:`floor division` and get an "
+"integer result you can use the ``//`` operator; to calculate the remainder you can use "
+"``%``::"
 msgstr ""
 "عملية القسمة (``/``) داءما ترجع عدد عشري (float). لإجراء قسمة تقريبية لأسفل "
-"أو :term:`floor division` والحصول على نتيجة من نوع عدد صحيح, يمكنك استخدام "
-"المعامل ``//``؛ أما لحساب باقي القسمة فيمكنك استخدام ``%``::"
+"أو :term:`floor division` والحصول على نتيجة من نوع عدد صحيح, يمكنك استخدام المعامل ``//"
+"``؛ أما لحساب باقي القسمة فيمكنك استخدام ``%``::"
 
 #: ../../tutorial/introduction.rst:75
 #, python-format
@@ -158,10 +148,8 @@ msgid ""
 msgstr ""
 
 #: ../../tutorial/introduction.rst:85
-msgid ""
-"With Python, it is possible to use the ``**`` operator to calculate powers "
-"[#]_::"
-msgstr "مع بايثون فإنه من الممكن استخدام المعامل ``**`` لحساب القوى[#]_::"
+msgid "With Python, it is possible to use the ``**`` operator to calculate powers [#]_::"
+msgstr "مع بايثون فإنه من الممكن استخدام المعامل ``**`` لحساب القوى [#]_::"
 
 #: ../../tutorial/introduction.rst:87
 msgid ""
@@ -173,11 +161,11 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:92
 msgid ""
-"The equal sign (``=``) is used to assign a value to a variable. Afterwards, no "
-"result is displayed before the next interactive prompt::"
+"The equal sign (``=``) is used to assign a value to a variable. Afterwards, no result "
+"is displayed before the next interactive prompt::"
 msgstr ""
-"تستخدم علامة المساواة (``=``) لتعيين قيمة لمتغير. وبعد ذلك، لا تظهر أي نتيجة "
-"قبل ظهور الموجه التفاعلي التالي::"
+"تُستخدم علامة المساواة (``=``) لتعيين قيمة لمتغير. وبعد ذلك، لا تظهر أي نتيجة قبل ظهور "
+"الموجه التفاعلي التالي::"
 
 #: ../../tutorial/introduction.rst:95
 msgid ""
@@ -189,11 +177,11 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:100
 msgid ""
-"If a variable is not \"defined\" (assigned a value), trying to use it will "
-"give you an error::"
+"If a variable is not \"defined\" (assigned a value), trying to use it will give you an "
+"error::"
 msgstr ""
-"إذا لم يكن المتغير “معرفا” (أي لم يتم تعيين له قيمة)، فإن محاولة استخدامه "
-"ستؤدي إلى خطأ:"
+"إذا لم يكن المتغير “معرفاً” (أي لم يتم تعيين إليه قيمة)، فإن محاولة استخدامه ستؤدي إلى "
+"خطأ:"
 
 #: ../../tutorial/introduction.rst:103
 msgid ""
@@ -204,13 +192,12 @@ msgid ""
 msgstr ""
 
 #: ../../tutorial/introduction.rst:108
-#, fuzzy
 msgid ""
-"There is full support for floating point; operators with mixed type operands "
-"convert the integer operand to floating point::"
+"There is full support for floating point; operators with mixed type operands convert "
+"the integer operand to floating point::"
 msgstr ""
-"هناك دعم كامل للنقطة العشرية العائمة؛ تقوم المعاملات ذات الأنواع المختلطة "
-"بتحويل المعامل الصحيح إلى عدد عشري::"
+"هناك دعم كامل للأعداد ذات الفاصلة العائمة؛ تقوم العوامل التي تأخذ معاملات ذات أنواع "
+"مختلفة بتحويل المعمول الصحيح إلى فاصلة عائمة::"
 
 #: ../../tutorial/introduction.rst:111
 msgid ""
@@ -220,13 +207,12 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:114
 msgid ""
-"In interactive mode, the last printed expression is assigned to the variable "
-"``_``.  This means that when you are using Python as a desk calculator, it is "
-"somewhat easier to continue calculations, for example::"
+"In interactive mode, the last printed expression is assigned to the variable ``_``.  "
+"This means that when you are using Python as a desk calculator, it is somewhat easier "
+"to continue calculations, for example::"
 msgstr ""
-"في الوضع التفاعلي، يتم تعيين التعبير الأخير إلى المتغير ``_``. هذا يعني أن "
-"عندما تستخدم بايثون كآلة حاسبة، انه من السهل نوعا ما لتكملة الحسابات، على سبيل "
-"المثال::"
+"في الوضع التفاعلي، يتم تعيين التعبير الأخير إلى المتغير ``_``. هذا يعني أن عندما "
+"تستخدم بايثون كآلة حاسبة، انه من السهل نوعا ما لتكملة الحسابات، على سبيل المثال::"
 
 #: ../../tutorial/introduction.rst:118
 msgid ""
@@ -241,29 +227,26 @@ msgid ""
 msgstr ""
 
 #: ../../tutorial/introduction.rst:127
-#, fuzzy
 msgid ""
-"This variable should be treated as read-only by the user.  Don't explicitly "
-"assign a value to it --- you would create an independent local variable with "
-"the same name masking the built-in variable with its magic behavior."
+"This variable should be treated as read-only by the user.  Don't explicitly assign a "
+"value to it --- you would create an independent local variable with the same name "
+"masking the built-in variable with its magic behavior."
 msgstr ""
-"ينبغي للمستخدم التعامل مع هذا المتغير على أنه للقراءة فقط. لا تقوم بتعيين قيمة "
-"له — ففعل ذلك سيؤدي إلى إنشاء متغير محلي مستقل يحمل الاسم نفسه، مما يحجب "
-"المتغير الأصلي المبني داخليا ويعطل سلوكه الخاص."
+"ينبغي للمستخدم التعامل مع هذا المتغير على أنه للقراءة فقط. لا تُعَيِّن إليه قيمة بنفسك — "
+"ففعل ذلك سينشئ متغيرا محليا مستقلا بالاسم نفسه، مما يحجب المتغير الأصلي المبني داخليا "
+"وسلوكه الخاص."
 
 #: ../../tutorial/introduction.rst:131
 msgid ""
 "In addition to :class:`int` and :class:`float`, Python supports other types of "
-"numbers, such as :class:`~decimal.Decimal` and :class:`~fractions.Fraction`. "
-"Python also has built-in support for :ref:`complex numbers <typesnumeric>`, "
-"and uses the ``j`` or ``J`` suffix to indicate the imaginary part (e.g. "
-"``3+5j``)."
+"numbers, such as :class:`~decimal.Decimal` and :class:`~fractions.Fraction`. Python "
+"also has built-in support for :ref:`complex numbers <typesnumeric>`, and uses the "
+"``j`` or ``J`` suffix to indicate the imaginary part (e.g. ``3+5j``)."
 msgstr ""
-"بالاضافة إلى :class:`int` و :class:`float`، تدعم بايثون أنواعا أخرى من الأعداد "
-"أو الأرقام، مثل :class:`~decimal.Decimal` و :class:`~fractions.Fraction`. كما "
-"توفر بايثون دعما مبني داخليا للأعداد المركبة (:ref:`complex numbers "
-"<typesnumeric>`)، وتستخدم اللاحقة ``j`` أو ``J`` للإشارة للجزء التخيلي (على "
-"سبيل المثال ``3+5j``)."
+"بالإضافة إلى :class:`int` و :class:`float`، تدعم بايثون أنواعا أخرى من الأعداد، "
+"مثل :class:`~decimal.Decimal` و :class:`~fractions.Fraction`. كما توفر بايثون دعما "
+"مبني داخليا للأعداد المركبة (:ref:`complex numbers <typesnumeric>`)، وتستخدم اللاحقة "
+"``j`` أو ``J`` للإشارة للجزء التخيلي (على سبيل المثال ``3+5j``)."
 
 #: ../../tutorial/introduction.rst:141
 msgid "Text"
@@ -271,17 +254,17 @@ msgstr "النص"
 
 #: ../../tutorial/introduction.rst:143
 msgid ""
-"Python can manipulate text (represented by type :class:`str`, so-called "
-"\"strings\") as well as numbers.  This includes characters \"``!``\", words "
-"\"``rabbit``\", names \"``Paris``\", sentences \"``Got your back.``\", etc. "
-"\"``Yay! :)``\". They can be enclosed in single quotes (``'...'``) or double "
-"quotes (``\"...\"``) with the same result [#]_."
+"Python can manipulate text (represented by type :class:`str`, so-called \"strings\") "
+"as well as numbers.  This includes characters \"``!``\", words \"``rabbit``\", names "
+"\"``Paris``\", sentences \"``Got your back.``\", etc. \"``Yay! :)``\". They can be "
+"enclosed in single quotes (``'...'``) or double quotes (``\"...\"``) with the same "
+"result [#]_."
 msgstr ""
-"تستطيع بايثون معالجة النصوص (التي تمثل بالنوع :class:`str`، وتعرف ب “السلاسل "
-"النصية” أو “strings”) بالإضافة إلى الأعداد. يشمل ذلك الرموز \"``!``”، والكلمات "
-"\"``rabbit``”، والأسماء \"``Paris``”، والجمل \"``Got your back.``”، وغيرها "
-"\"``Yay! :)``\". يمكن وضع النصوص في بين علامات اقتباس منفردة (``'...'``) أو "
-"مزدوجة (``\"...\"``) وتكون النتيجة واحدة."
+"تستطيع بايثون معالجة النصوص (التي تمثل بالنوع :class:`str`، وتعرف ب “السلاسل النصية” "
+"أو “strings”) بالإضافة إلى الأعداد. يشمل ذلك الرموز \"``!``”، والكلمات \"``rabbit``”، "
+"والأسماء \"``Paris``”، والجمل \"``Got your back.``”، وغيرها \"``Yay! :)``\". يمكن "
+"إحاطة هذه النصوص بعلاماتي اقتباس مفردتين (``'...'``) أو مزدوجتين (``\"...\"``) "
+"والنتيجة واحدة [#]_."
 
 #: ../../tutorial/introduction.rst:149
 msgid ""
@@ -298,9 +281,9 @@ msgid ""
 "To quote a quote, we need to \"escape\" it, by preceding it with ``\\``. "
 "Alternatively, we can use the other type of quotation marks::"
 msgstr ""
-"لوضع علامة اقتباس داخل علامات اقتباس مرة أخرى، نحتاج إلى تجنبها أو “الهروب” "
-"(escape) عن طريق وضع الرمز ``\\`` قبلها. بدلا عن ذلك، يمكننا استخدام النوع "
-"الأخر من علامات الاقتباس::"
+"لوضع علامة اقتباس داخل علامات اقتباس مرة أخرى، نحتاج إلى تجنبها أو “الهروب” (escape) "
+"عن طريق وضع الرمز ``\\`` قبلها. بدلا عن ذلك، يمكننا استخدام النوع الأخر من علامات "
+"الاقتباس::"
 
 #: ../../tutorial/introduction.rst:161
 msgid ""
@@ -318,21 +301,20 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:172
 msgid ""
-"In the Python shell, the string definition and output string can look "
-"different.  The :func:`print` function produces a more readable output, by "
-"omitting the enclosing quotes and by printing escaped and special characters::"
+"In the Python shell, the string definition and output string can look different.  "
+"The :func:`print` function produces a more readable output, by omitting the enclosing "
+"quotes and by printing escaped and special characters::"
 msgstr ""
-"في صدفة بايثون، قد يختلف شكل السلسلة المعرفة وسلسلة الإخراج. تنتج "
-"الدالة :func:`print` مخرجات أكثر وضوحا عن طريق حذف العلامات الاقتباس المحيطة "
-"وطباعة الرموز الخاصة والمُهرّبة::"
+"في صَدَفَة بايثون، قد يختلف شكل السلسلة المعرفة وسلسلة الإخراج. تنتج الدالة :func:`print` "
+"مخرجات أكثر وضوحا عن طريق حذف العلامات الاقتباس المحيطة وطباعة الرموز الخاصة والمُهرّبة::"
 
 #: ../../tutorial/introduction.rst:176
 msgid ""
 ">>> s = 'First line.\\nSecond line.'  # \\n means newline\n"
 ">>> s  # without print(), special characters are included in the string\n"
 "'First line.\\nSecond line.'\n"
-">>> print(s)  # with print(), special characters are interpreted, so \\n "
-"produces new line\n"
+">>> print(s)  # with print(), special characters are interpreted, so \\n produces new "
+"line\n"
 "First line.\n"
 "Second line."
 msgstr ""
@@ -340,11 +322,10 @@ msgstr ""
 #: ../../tutorial/introduction.rst:183
 msgid ""
 "If you don't want characters prefaced by ``\\`` to be interpreted as special "
-"characters, you can use *raw strings* by adding an ``r`` before the first "
-"quote::"
+"characters, you can use *raw strings* by adding an ``r`` before the first quote::"
 msgstr ""
-"إذا لا تريد أن تُعامل الرموز المسبوقة ب ``\\`` كرموز خاصة، يمكنك استخدام "
-"*السلاسل النصية الخام* عن طريق اضافة ``r`` قبل علامة الاقتباس الأولى::"
+"إذا لا تريد أن تُعامل الرموز المسبوقة ب ``\\`` كرموز خاصة، يمكنك استخدام *السلاسل "
+"النصية الخام* عن طريق اضافة ``r`` قبل علامة الاقتباس الأولى::"
 
 #: ../../tutorial/introduction.rst:187
 msgid ""
@@ -357,26 +338,25 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:193
 msgid ""
-"There is one subtle aspect to raw strings: a raw string may not end in an odd "
-"number of ``\\`` characters; see :ref:`the FAQ entry <faq-programming-raw-"
-"string-backslash>` for more information and workarounds."
+"There is one subtle aspect to raw strings: a raw string may not end in an odd number "
+"of ``\\`` characters; see :ref:`the FAQ entry <faq-programming-raw-string-backslash>` "
+"for more information and workarounds."
 msgstr ""
-"هناك جانب دقيق للسلاسل النصية الخام: لا يمكن أن تنتهي لسلسلة الخامة بعدد فردي "
-"من رموز ال ``\\``؛ أنظر إلى :ref:`بند الأسئلة الشائعة <faq-programming-raw-"
-"string-backslash>` للمزيد من المعلومات والحلول البديلة."
+"هناك جانب دقيق للسلاسل النصية الخام: لا يمكن لسلسلة خام أن تنتهي بعدد فردي من رموز ال "
+"``\\``؛ أنظر إلى :ref:`بند الأسئلة الشائعة <faq-programming-raw-string-backslash>` "
+"للمزيد من المعلومات والحلول البديلة."
 
 #: ../../tutorial/introduction.rst:198
 msgid ""
-"String literals can span multiple lines.  One way is using triple-quotes: "
-"``\"\"\"...\"\"\"`` or ``'''...'''``.  End-of-line characters are "
-"automatically included in the string, but it's possible to prevent this by "
-"adding a ``\\`` at the end of the line.  In the following example, the initial "
-"newline is not included::"
+"String literals can span multiple lines.  One way is using triple-quotes: ``\"\"\"..."
+"\"\"\"`` or ``'''...'''``.  End-of-line characters are automatically included in the "
+"string, but it's possible to prevent this by adding a ``\\`` at the end of the line.  "
+"In the following example, the initial newline is not included::"
 msgstr ""
-"يمكن للسلاسل الحرفية أن تمتد عبر عدة أسطر. إحدى طرق تأدية ذلك هي استخدام "
-"علامات اقتباس ثلاثية: ``\"\"\"...\"\"\"`` أو ``'''...'''``. يتم وضع رموز نهاية "
-"السطر تلقائيًا ضمن السلسلة النصية، ولكن يمكن منع حدوث ذلك بإضافة رمز ``\\`` في "
-"نهاية السطر. في المثال الأتي، لا يتم تضمين السطر الجديد الأولي::"
+"يمكن للسلاسل الحرفية أن تمتد عبر عدة أسطر. إحدى طرق تأدية ذلك هي استخدام علامات اقتباس "
+"ثلاثية: ``\"\"\"...\"\"\"`` أو ``'''...'''``. يتم وضع رموز نهاية السطر تلقائيًا ضمن "
+"السلسلة النصية، ولكن يمكن منع حدوث ذلك بإضافة رمز ``\\`` في نهاية السطر. في المثال "
+"التالي، لا يتم تضمين السطر الجديد الأولي::"
 
 #: ../../tutorial/introduction.rst:204
 msgid ""
@@ -394,11 +374,11 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:215
 msgid ""
-"Strings can be concatenated (glued together) with the ``+`` operator, and "
-"repeated with ``*``::"
+"Strings can be concatenated (glued together) with the ``+`` operator, and repeated "
+"with ``*``::"
 msgstr ""
-"من الممكن توحيد (أو اللصق معا أو الدمج) السلاسل النصية باستخدام المعامل ``+``، "
-"وتكرارها باستخدام المعامل ``*``::"
+"من الممكن دمج (أو اللصق معا) السلاسل النصية باستخدام المعامل ``+``، وتكرارها باستخدام "
+"المعامل ``*``::"
 
 #: ../../tutorial/introduction.rst:218
 msgid ""
@@ -409,11 +389,11 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:222
 msgid ""
-"Two or more *string literals* (i.e. the ones enclosed between quotes) next to "
-"each other are automatically concatenated. ::"
+"Two or more *string literals* (i.e. the ones enclosed between quotes) next to each "
+"other are automatically concatenated. ::"
 msgstr ""
-"يتم توحيد اثنتين أو أكثر من *سلاسل النصوص الحرفية* (أي تلك المحصورة بين علامتي "
-"اقتباس) تلقائيًا عند وضعها بجانب بعضها البعض:"
+"يتم دمج اثنتين أو أكثر من *السلاسل النصية الحرفية* (أي تلك المحصورة بين علامتي اقتباس) "
+"تلقائيًا عند وضعها بجانب بعضها البعض:"
 
 #: ../../tutorial/introduction.rst:225
 msgid ""
@@ -434,8 +414,7 @@ msgid ""
 msgstr ""
 
 #: ../../tutorial/introduction.rst:235
-msgid ""
-"This only works with two literals though, not with variables or expressions::"
+msgid "This only works with two literals though, not with variables or expressions::"
 msgstr "لكن هذا يعمل فقط مع اثنين من الحرفيات، وليس مع المتغيرات أو التعبيرات::"
 
 #: ../../tutorial/introduction.rst:237
@@ -454,9 +433,8 @@ msgid ""
 msgstr ""
 
 #: ../../tutorial/introduction.rst:249
-msgid ""
-"If you want to concatenate variables or a variable and a literal, use ``+``::"
-msgstr "إذا أردت توحيد متغيرات أو متغير وحرفية، فاستخدم ``+``::"
+msgid "If you want to concatenate variables or a variable and a literal, use ``+``::"
+msgstr "إذا أردت دمج متغيرات أو متغير وحرفية، فاستخدم ``+``::"
 
 #: ../../tutorial/introduction.rst:251
 msgid ""
@@ -466,13 +444,11 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:254
 msgid ""
-"Strings can be *indexed* (subscripted), with the first character having index "
-"0. There is no separate character type; a character is simply a string of size "
-"one::"
+"Strings can be *indexed* (subscripted), with the first character having index 0. There "
+"is no separate character type; a character is simply a string of size one::"
 msgstr ""
-"يمكن للسلاسل أن *تفهرس* (indexed أو subscripted)، مع أول رمز كونه الفهرس 0. "
-"ليس هناك نوع بيانات منفصل للحروف أو الرموز؛ فالحرف ما هو إلا سلسلة نصية طولها "
-"واحد::"
+"يمكن للسلاسل أن *تفهرس* (indexed أو subscripted)، مع أول رمز كونه الفهرس 0. ليس هناك "
+"نوع بيانات منفصل للحروف أو الرموز؛ فالحرف ما هو إلا سلسلة نصية طولها واحد::"
 
 #: ../../tutorial/introduction.rst:258
 msgid ""
@@ -485,8 +461,7 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:264
 msgid "Indices may also be negative numbers, to start counting from the right::"
-msgstr ""
-"يمكن أم تكون الفهارس أيضا أرقاما سلبية، وذلك للبدء بالعد من الجهة اليمنى::"
+msgstr "يمكن أم تكون الفهارس أيضا أرقاما سلبية، وذلك للبدء بالعد من الجهة اليمنى::"
 
 #: ../../tutorial/introduction.rst:266
 msgid ""
@@ -504,12 +479,11 @@ msgstr "لاحظ أنه بما أن -0 هي نفسها 0، فإن الفهارس
 
 #: ../../tutorial/introduction.rst:275
 msgid ""
-"In addition to indexing, *slicing* is also supported.  While indexing is used "
-"to obtain individual characters, *slicing* allows you to obtain a substring::"
+"In addition to indexing, *slicing* is also supported.  While indexing is used to "
+"obtain individual characters, *slicing* allows you to obtain a substring::"
 msgstr ""
-"بالاضافة إلى الفهرسة، هناك أيضا دعم *للتشريح* أو التقطيع. فبينما تستخدم "
-"الفهرسة للحصول على أحرف منفردة، يتيح لك التشريح الحصول على سلسلة فرعية "
-"(substring)::"
+"بالإضافة إلى الفهرسة، هناك أيضا دعم *للتشريح* أو التقطيع. فبينما تستخدم الفهرسة للحصول "
+"على أحرف منفردة، يتيح لك التشريح الحصول على سلسلة فرعية (substring)::"
 
 #: ../../tutorial/introduction.rst:278
 msgid ""
@@ -521,12 +495,11 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:283
 msgid ""
-"Slice indices have useful defaults; an omitted first index defaults to zero, "
-"an omitted second index defaults to the size of the string being sliced. ::"
+"Slice indices have useful defaults; an omitted first index defaults to zero, an "
+"omitted second index defaults to the size of the string being sliced. ::"
 msgstr ""
-"تتمتع فهارس الشرائح بقيم افتراضية مفيدة؛ فإذا حذف الفهرس الأول تكون قيمته "
-"الافتراضية صفرا، وإذا حذف الفهرس الثاني، تكون قيمته الافتراضية هي طول السلسلة "
-"المراد تشريحها. ::"
+"تتمتع فهارس الشرائح بقيم افتراضية مفيدة؛ فإذا حذف الفهرس الأول تكون قيمته الافتراضية "
+"صفرا، وإذا حذف الفهرس الثاني، تكون قيمته الافتراضية هي طول السلسلة المراد تشريحها. ::"
 
 #: ../../tutorial/introduction.rst:286
 msgid ""
@@ -540,11 +513,11 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:293
 msgid ""
-"Note how the start is always included, and the end always excluded.  This "
-"makes sure that ``s[:i] + s[i:]`` is always equal to ``s``::"
+"Note how the start is always included, and the end always excluded.  This makes sure "
+"that ``s[:i] + s[i:]`` is always equal to ``s``::"
 msgstr ""
-"لاحظ أن نقطة البداية تكون مشمولة دائمًا، بينما تُستثنى نقطة النهاية دائمًا. وهذا "
-"يضمن أن التعبير ``s[:i] + s[i:]`` يساوي دائمًا ``s``::"
+"لاحظ أن نقطة البداية تكون مشمولة دائمًا، بينما تُستثنى نقطة النهاية دائمًا. وهذا يضمن أن "
+"التعبير ``s[:i] + s[i:]`` يساوي دائمًا ``s``::"
 
 #: ../../tutorial/introduction.rst:296
 msgid ""
@@ -556,14 +529,13 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:301
 msgid ""
-"One way to remember how slices work is to think of the indices as pointing "
-"*between* characters, with the left edge of the first character numbered 0. "
-"Then the right edge of the last character of a string of *n* characters has "
-"index *n*, for example::"
+"One way to remember how slices work is to think of the indices as pointing *between* "
+"characters, with the left edge of the first character numbered 0. Then the right edge "
+"of the last character of a string of *n* characters has index *n*, for example::"
 msgstr ""
-"احدى الطرق لتتذكر كيفية عمل الشرائح هي أن تعتبر أن الفهارس تؤشر إلى *ما بين* "
-"الحروف، حيث يرقم الحد الأيسر للحرف الأول بالرقم 0. ثم يكون الحد الأيمن للحرف "
-"الأخير من سلسلة ذات *n* حروف حاصلا على الفهرس *n*، على سبيل المثال::"
+"احدى الطرق لتتذكر كيفية عمل الشرائح هي أن تعتبر أن الفهارس تؤشر إلى *ما بين* الحروف، "
+"حيث يرقم الحد الأيسر للحرف الأول بالرقم 0. ثم يكون الحد الأيمن للحرف الأخير من سلسلة "
+"ذات *n* حروف حاصلا على الفهرس *n*، على سبيل المثال::"
 
 #: ../../tutorial/introduction.rst:306
 msgid ""
@@ -575,26 +547,22 @@ msgid ""
 msgstr ""
 
 #: ../../tutorial/introduction.rst:312
-#, fuzzy
 msgid ""
-"The first row of numbers gives the position of the indices 0...6 in the "
-"string; the second row gives the corresponding negative indices. The slice "
-"from *i* to *j* consists of all characters between the edges labeled *i* and "
-"*j*, respectively."
+"The first row of numbers gives the position of the indices 0...6 in the string; the "
+"second row gives the corresponding negative indices. The slice from *i* to *j* "
+"consists of all characters between the edges labeled *i* and *j*, respectively."
 msgstr ""
-"أول سطر من الأرقام يعطي مركز الفهرس بين 0...6 في السلسلة؛ السطر الثاني يعطي "
-"الفهرس المتناظر السلبي. الشريحة من *i* إلى *j* تتضمن كل الحروف التي بين الحدود "
-"*i* و *j* على التوالي."
+"يوضح صف الأرقام الأول مواضع الفهارس من 0...6 في السلسلة؛ ويعطي الصف الثاني الفهارس "
+"السلبية المقابلة. تتضمن الشريحة من *i* إلى *j* كل الحروف التي بين الحدين المشار إليهما "
+"ب *i* و *j*، على التوالي."
 
 #: ../../tutorial/introduction.rst:317
-#, fuzzy
 msgid ""
-"For non-negative indices, the length of a slice is the difference of the "
-"indices, if both are within bounds.  For example, the length of ``word[1:3]`` "
-"is 2."
+"For non-negative indices, the length of a slice is the difference of the indices, if "
+"both are within bounds.  For example, the length of ``word[1:3]`` is 2."
 msgstr ""
-"للفهارس الغير سلبية، فإن طول الشريحة يكون الفرق بين الفهرسين إذ كان كليهما من "
-"ضمن الحدود. على سبيل المثال، طول السلسلة ``word[1:3]`` هو 2."
+"للفهارس الغير سلبية، يكون طول الشريحة هو الفرق بين الفهرسين، إذا كانا كلاهما ضمن "
+"الحدود. على سبيل المثال، طول ``word[1:3]`` هو 2."
 
 #: ../../tutorial/introduction.rst:321
 msgid "Attempting to use an index that is too large will result in an error::"
@@ -609,10 +577,8 @@ msgid ""
 msgstr ""
 
 #: ../../tutorial/introduction.rst:328
-#, fuzzy
 msgid ""
-"However, out of range slice indexes are handled gracefully when used for "
-"slicing::"
+"However, out of range slice indexes are handled gracefully when used for slicing::"
 msgstr "ولكن، يتم التعامل بسلاسة مع فهارس التشريح إذا كانوا خارج الحدود::"
 
 #: ../../tutorial/introduction.rst:331
@@ -625,11 +591,11 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:336
 msgid ""
-"Python strings cannot be changed --- they are :term:`immutable`. Therefore, "
-"assigning to an indexed position in the string results in an error::"
+"Python strings cannot be changed --- they are :term:`immutable`. Therefore, assigning "
+"to an indexed position in the string results in an error::"
 msgstr ""
-"ليس من الممكن تغير سلاسل بايثون النصية — هذا لانهم محميين نن التغيير أو "
-"immutable`. لذلك، محاولة تعيين مركز مفهرس في السلسلة سيؤدي إلى خطأ::"
+"ليس من الممكن تغيير سلاسل بايثون النصية — هذا لانهم محميين من التغيير "
+"أو :term:`immutable`. لذلك، محاولة التعيين إلى موضع مفهرس في السلسلة سيؤدي إلى خطأ::"
 
 #: ../../tutorial/introduction.rst:339
 msgid ""
@@ -645,7 +611,7 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:348
 msgid "If you need a different string, you should create a new one::"
-msgstr "إذا احتجت لإلى سلسلة مختلفة فيجب عليك صنع واحدة جديدة::"
+msgstr "إذا احتجت إلى سلسلة مختلفة، يجب عليك صنع واحدة جديدة::"
 
 #: ../../tutorial/introduction.rst:350
 msgid ""
@@ -672,11 +638,11 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:365
 msgid ""
-"Strings are examples of *sequence types*, and support the common operations "
-"supported by such types."
+"Strings are examples of *sequence types*, and support the common operations supported "
+"by such types."
 msgstr ""
-"السلاسل هي أمثلة من *الأنواع التسلسلية*، وهي تدعم العمليات الشائعة المدعومة من "
-"تلك الأنواع."
+"السلاسل هي أمثلة من *الأنواع التسلسلية*، وهي تدعم العمليات الشائعة المدعومة من تلك "
+"الأنواع."
 
 #: ../../tutorial/introduction.rst:368
 msgid ":ref:`string-methods`"
@@ -684,9 +650,8 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:369
 msgid ""
-"Strings support a large number of methods for basic transformations and "
-"searching."
-msgstr "تدعم السلاسل عدد كبير من الدوال من أجل التحويلات البسيطة والبحث."
+"Strings support a large number of methods for basic transformations and searching."
+msgstr "تدعم السلاسل عدد كبير من الدوال الأعضاء من أجل التحويلات البسيطة والبحث."
 
 #: ../../tutorial/introduction.rst:372
 msgid ":ref:`f-strings`"
@@ -710,9 +675,11 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:379
 msgid ""
-"The old formatting operations invoked when strings are the left operand of the "
-"``%`` operator are described in more detail here."
+"The old formatting operations invoked when strings are the left operand of the ``%`` "
+"operator are described in more detail here."
 msgstr ""
+"هنا ستجد شرح بمزيد من التفصيل عن عمليات التنسيق القديمة التي تستدعى عندما تكون السلسلة "
+"هي المعمول الأيسر للعامل ``%``."
 
 #: ../../tutorial/introduction.rst:386
 msgid "Lists"
@@ -720,11 +687,15 @@ msgstr "القوائم"
 
 #: ../../tutorial/introduction.rst:388
 msgid ""
-"Python knows a number of *compound* data types, used to group together other "
-"values.  The most versatile is the *list*, which can be written as a list of "
-"comma-separated values (items) between square brackets.  Lists might contain "
-"items of different types, but usually the items all have the same type. ::"
+"Python knows a number of *compound* data types, used to group together other values.  "
+"The most versatile is the *list*, which can be written as a list of comma-separated "
+"values (items) between square brackets.  Lists might contain items of different types, "
+"but usually the items all have the same type. ::"
 msgstr ""
+"تعرف بايثون العديد من أنواع البيانات *المركبة* التي تُستخدم لجمع قيم أخرى معا. أكثرها "
+"مرونة هي *القائمة*، التي يمكن كتابتها على هيئة قيم (عناصر) مفصولة بفواصل ومحاطة بأقواس "
+"مربعة. قد تحتوي القائمة على عناصر من أنواع مختلفة، لكن عناصرها تكون عادة من النوع "
+"نفسه. ::"
 
 #: ../../tutorial/introduction.rst:393
 msgid ""
@@ -735,9 +706,10 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:397
 msgid ""
-"Like strings (and all other built-in :term:`sequence` types), lists can be "
-"indexed and sliced::"
+"Like strings (and all other built-in :term:`sequence` types), lists can be indexed and "
+"sliced::"
 msgstr ""
+"مثل السلاسل (وكل أنواع ال :term:`sequence` المبنية داخليا)، يمكن فهرسة وتشريح القوائم::"
 
 #: ../../tutorial/introduction.rst:400
 msgid ""
@@ -751,7 +723,7 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:407
 msgid "Lists also support operations like concatenation::"
-msgstr ""
+msgstr "تدعم القوائم أيضا عمليات مثل الدمج::"
 
 #: ../../tutorial/introduction.rst:409
 msgid ""
@@ -761,9 +733,11 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:412
 msgid ""
-"Unlike strings, which are :term:`immutable`, lists are a :term:`mutable` type, "
-"i.e. it is possible to change their content::"
+"Unlike strings, which are :term:`immutable`, lists are a :term:`mutable` type, i.e. it "
+"is possible to change their content::"
 msgstr ""
+"على عكس السلاسل، التي تكون محمية من التغيير (:term:`immutable`)، القوائم هي نوع قابل "
+"للتغيير (:term:`mutable`)، بمعنى أنه من الممكن تغيير محتواهم::"
 
 #: ../../tutorial/introduction.rst:415
 msgid ""
@@ -777,9 +751,11 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:422
 msgid ""
-"You can also add new items at the end of the list, by using "
-"the :meth:`list.append` *method* (we will see more about methods later)::"
+"You can also add new items at the end of the list, by using the :meth:`list.append` "
+"*method* (we will see more about methods later)::"
 msgstr ""
+"يمكنك أيضا إضافة أغراض جديدة إلى نهاية القائمة، باستخدام *الدالة "
+"العضو* :meth:`list.append` (سنرى المزيد عن الدوال الأعضاء لاحقا)::"
 
 #: ../../tutorial/introduction.rst:425
 msgid ""
@@ -791,11 +767,13 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:430
 msgid ""
-"Simple assignment in Python never copies data. When you assign a list to a "
-"variable, the variable refers to the *existing list*. Any changes you make to "
-"the list through one variable will be seen through all other variables that "
-"refer to it.::"
+"Simple assignment in Python never copies data. When you assign a list to a variable, "
+"the variable refers to the *existing list*. Any changes you make to the list through "
+"one variable will be seen through all other variables that refer to it.::"
 msgstr ""
+"لا يقوم التعيين البسيط في بايثون بنسخ البيانات أبدًا. عندما تعين قائمة إلى متغير، "
+"المتغير يشير إلى *القائمة الحالية*. أي تغيير تقوم به للقائمة عن طريق متغير واحد سيتبين "
+"أيضا عن طريق المتغيرات الأخرى التي تشير إلى نفس القائمة.::"
 
 #: ../../tutorial/introduction.rst:435
 msgid ""
@@ -810,10 +788,12 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:443
 msgid ""
-"All slice operations return a new list containing the requested elements.  "
-"This means that the following slice returns a :ref:`shallow copy "
-"<shallow_vs_deep_copy>` of the list::"
+"All slice operations return a new list containing the requested elements.  This means "
+"that the following slice returns a :ref:`shallow copy <shallow_vs_deep_copy>` of the "
+"list::"
 msgstr ""
+"تُرجع كل عمليات التشريح قائمة جديدة تحتوي على العناصر المطلوبة. هذا يعني أن الشريحة "
+"التالية تُرجع نسخة سطحية (:ref:`shallow copy <shallow_vs_deep_copy>`) من القائمة::"
 
 #: ../../tutorial/introduction.rst:447
 msgid ""
@@ -827,9 +807,9 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:454
 msgid ""
-"Assignment to slices is also possible, and this can even change the size of "
-"the list or clear it entirely::"
-msgstr ""
+"Assignment to slices is also possible, and this can even change the size of the list "
+"or clear it entirely::"
+msgstr "يمكن أيضا التعيين إلى الشرائح، وقد يغير ذلك حجم القائمة أو يفرغها بالكامل::"
 
 #: ../../tutorial/introduction.rst:457
 msgid ""
@@ -852,7 +832,7 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:473
 msgid "The built-in function :func:`len` also applies to lists::"
-msgstr ""
+msgstr "الدالة :func:`len` المبنية داخليا أيضا تنطبق على القوائم::"
 
 #: ../../tutorial/introduction.rst:475
 msgid ""
@@ -862,10 +842,8 @@ msgid ""
 msgstr ""
 
 #: ../../tutorial/introduction.rst:479
-msgid ""
-"It is possible to nest lists (create lists containing other lists), for "
-"example::"
-msgstr ""
+msgid "It is possible to nest lists (create lists containing other lists), for example::"
+msgstr "يمكن تداخل القوائم (أي إنشاء قوائم تحتوي على قوائم أخرى)، على سبيل المثال::"
 
 #: ../../tutorial/introduction.rst:482
 msgid ""
@@ -882,15 +860,17 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:495
 msgid "First Steps Towards Programming"
-msgstr ""
+msgstr "الخطوات الأولى نحو البرمجة"
 
 #: ../../tutorial/introduction.rst:497
 msgid ""
-"Of course, we can use Python for more complicated tasks than adding two and "
-"two together.  For instance, we can write an initial sub-sequence of the "
-"`Fibonacci series <https://en.wikipedia.org/wiki/Fibonacci_sequence>`_ as "
-"follows::"
+"Of course, we can use Python for more complicated tasks than adding two and two "
+"together.  For instance, we can write an initial sub-sequence of the `Fibonacci series "
+"<https://en.wikipedia.org/wiki/Fibonacci_sequence>`_ as follows::"
 msgstr ""
+"بالطبع يمكننا استخدام بايثون لمهام أكثر تعقيدا من جمع اثنين واثنين معا. على سبيل "
+"المثال، يمكننا كتابة تسلسل فرعي أولي من `متسلسلة فيبوناتشي <https://en.wikipedia.org/"
+"wiki/Fibonacci_sequence>`_ كما يلي::"
 
 #: ../../tutorial/introduction.rst:502
 msgid ""
@@ -912,49 +892,68 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:517
 msgid "This example introduces several new features."
-msgstr ""
+msgstr "هذا المثال يحتوي على العديد من الميزات الجديدة."
 
 #: ../../tutorial/introduction.rst:519
 msgid ""
 "The first line contains a *multiple assignment*: the variables ``a`` and ``b`` "
-"simultaneously get the new values 0 and 1.  On the last line this is used "
-"again, demonstrating that the expressions on the right-hand side are all "
-"evaluated first before any of the assignments take place.  The right-hand side "
-"expressions are evaluated  from the left to the right."
+"simultaneously get the new values 0 and 1.  On the last line this is used again, "
+"demonstrating that the expressions on the right-hand side are all evaluated first "
+"before any of the assignments take place.  The right-hand side expressions are "
+"evaluated  from the left to the right."
 msgstr ""
+"يحتوي السطر الأول على *التعيين المتعدد*: المتغيران ``a`` و ``b`` يحصلان في نفس الوقت "
+"على القِيَم 0 و 1. هذا يُستخدم مجددا في السطر الأخير، مما يظهر أن التعبيرات على الجهة "
+"اليمنى يقام بتقييمها أولا قبل حدوث أي من التعيينات. التعبيرات التي على الجهة اليمنى "
+"تنفذ من اليسار إلى اليمين."
 
 #: ../../tutorial/introduction.rst:525
 msgid ""
-"The :keyword:`while` loop executes as long as the condition (here: ``a < 10``) "
-"remains true.  In Python, like in C, any non-zero integer value is true; zero "
-"is false.  The condition may also be a string or list value, in fact any "
-"sequence; anything with a non-zero length is true, empty sequences are false.  "
-"The test used in the example is a simple comparison.  The standard comparison "
-"operators are written the same as in C: ``<`` (less than), ``>`` (greater "
-"than), ``==`` (equal to), ``<=`` (less than or equal to), ``>=`` (greater than "
-"or equal to) and ``!=`` (not equal to)."
+"The :keyword:`while` loop executes as long as the condition (here: ``a < 10``) remains "
+"true.  In Python, like in C, any non-zero integer value is true; zero is false.  The "
+"condition may also be a string or list value, in fact any sequence; anything with a "
+"non-zero length is true, empty sequences are false.  The test used in the example is a "
+"simple comparison.  The standard comparison operators are written the same as in C: "
+"``<`` (less than), ``>`` (greater than), ``==`` (equal to), ``<=`` (less than or equal "
+"to), ``>=`` (greater than or equal to) and ``!=`` (not equal to)."
 msgstr ""
+"يقام بتنفيذ حلقة (loop) :keyword:`while` طالما بقي الشرط (هنا: ``a < 10``) صحيحا. في "
+"بايثون، كما في لغة C، أي عدد صحيح غير صفري يكون صحيح (true)؛ والصفر يكون خطأ (false). "
+"يمكن أيضا للشرط أن يكون سلسلة نصية أو قيمة قائمة، وفي الواقع أي تسلسل؛ أي شىء طوله غير "
+"صفري فهو صحيح، والتسلسلات الفارغة فهي خطأ. الاختبار المستخدم في هذا المثال هو مقارنة "
+"بسيطة. معاملات المقارنة القياسية تُكتب نفسها كما في C: ``<`` (أقل من)، ``>`` (أكثر من), "
+"``==`` (مساوي مع), ``<=`` (أقل من أو مساوي مع), ``>=`` (أكثر من أو مساوي مع) و ``!=`` "
+"(ليس مساوي مع)."
 
 #: ../../tutorial/introduction.rst:534
 msgid ""
 "The *body* of the loop is *indented*: indentation is Python's way of grouping "
-"statements.  At the interactive prompt, you have to type a tab or space(s) for "
-"each indented line.  In practice you will prepare more complicated input for "
-"Python with a text editor; all decent text editors have an auto-indent "
-"facility.  When a compound statement is entered interactively, it must be "
-"followed by a blank line to indicate completion (since the parser cannot guess "
-"when you have typed the last line).  Note that each line within a basic block "
-"must be indented by the same amount."
+"statements.  At the interactive prompt, you have to type a tab or space(s) for each "
+"indented line.  In practice you will prepare more complicated input for Python with a "
+"text editor; all decent text editors have an auto-indent facility.  When a compound "
+"statement is entered interactively, it must be followed by a blank line to indicate "
+"completion (since the parser cannot guess when you have typed the last line).  Note "
+"that each line within a basic block must be indented by the same amount."
 msgstr ""
+"هيكل الحلقة يحتوي على *مسافة بادئة*: المسافات البادئة هي طريقة بايثون لتجميع العبارات. "
+"في الموجه التفاعلي، يجب عليك كتابة علامة تبويب أو مسافة لكل سطر بادء. فعليا ستقوم "
+"بتجهيز مدخلات أكثر تعقيدا لبايثون من خلال محرر نصوص؛ لدى كل المحررات الجيدة خاصية "
+"المسافة البادئة التلقائية. عندما يتم إدخال عبارة مُرَكَبَة تفاعليا، يجب أن تُتبع بسطر فارغ "
+"من أجل تبيين الانتهاء (لأن المحلل اللغوي لا يقدر على تخمين ما هو أخر سطر). لاحظ أن كل "
+"سطر ضمن مجموعة بسيطة يجب أن يكون عنده نفس كمية المسافة البادئة."
 
 #: ../../tutorial/introduction.rst:543
 msgid ""
-"The :func:`print` function writes the value of the argument(s) it is given. It "
-"differs from just writing the expression you want to write (as we did earlier "
-"in the calculator examples) in the way it handles multiple arguments, floating-"
-"point quantities, and strings.  Strings are printed without quotes, and a "
-"space is inserted between items, so you can format things nicely, like this::"
+"The :func:`print` function writes the value of the argument(s) it is given. It differs "
+"from just writing the expression you want to write (as we did earlier in the "
+"calculator examples) in the way it handles multiple arguments, floating-point "
+"quantities, and strings.  Strings are printed without quotes, and a space is inserted "
+"between items, so you can format things nicely, like this::"
 msgstr ""
+"الدالة :func:`print` تكتب قيمة الوسائط التي تعطى. إنها تختلف عن مجرد كتب التعبير الذي "
+"تريده (مثل ما فعلنا سابقا في أمثلة الآلة الحاسبة) في طريقة تعاملها مع الوسائط "
+"المتعددة، كميات الفاصلة العائمة، والسلاسل النصية. يتم طباعة السلاسل من دون أقباس ويتم "
+"إدخال مسافة بين الأغراض, حتى تتمكن من تنسيق الأشياء بشكل جيد، مثل هذا::"
 
 #: ../../tutorial/introduction.rst:550
 msgid ""
@@ -965,9 +964,11 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:554
 msgid ""
-"The keyword argument *end* can be used to avoid the newline after the output, "
-"or end the output with a different string::"
+"The keyword argument *end* can be used to avoid the newline after the output, or end "
+"the output with a different string::"
 msgstr ""
+"يمكن استخدام وسيطة الكلمة المفتاحية *end* لتجنب الخط الجديد بعد المخرجات، أو لإنها "
+"المخرجات بسلسلة مختلفة::"
 
 #: ../../tutorial/introduction.rst:557
 msgid ""
@@ -980,24 +981,28 @@ msgid ""
 msgstr ""
 
 #: ../../tutorial/introduction.rst:566
-#, fuzzy
 msgid "Footnotes"
 msgstr "الهوامش"
 
 #: ../../tutorial/introduction.rst:567
 msgid ""
-"Since ``**`` has higher precedence than ``-``, ``-3**2`` will be interpreted "
-"as ``-(3**2)`` and thus result in ``-9``.  To avoid this and get ``9``, you "
-"can use ``(-3)**2``."
+"Since ``**`` has higher precedence than ``-``, ``-3**2`` will be interpreted as ``-"
+"(3**2)`` and thus result in ``-9``.  To avoid this and get ``9``, you can use "
+"``(-3)**2``."
 msgstr ""
+"بما أن ``**`` لهو أولوية أعلى من ``-``، سيتم تفسير ``-3**2`` على أنه ``-(3**2)`` "
+"وبالتالي ينتج عنه ``-9``. لتجنب هذا والحصول على ``9``، يمكنك استخدام ``(-3)**2``."
 
 #: ../../tutorial/introduction.rst:571
 msgid ""
-"Unlike other languages, special characters such as ``\\n`` have the same "
-"meaning with both single (``'...'``) and double (``\"...\"``) quotes. The only "
-"difference between the two is that within single quotes you don't need to "
-"escape ``\"`` (but you have to escape ``\\'``) and vice versa."
+"Unlike other languages, special characters such as ``\\n`` have the same meaning with "
+"both single (``'...'``) and double (``\"...\"``) quotes. The only difference between "
+"the two is that within single quotes you don't need to escape ``\"`` (but you have to "
+"escape ``\\'``) and vice versa."
 msgstr ""
+"على عكس اللغات الأخرى، الرموز الخاصة مثل ``\\n`` لديها نفس المعنى سواء مع الأقباس "
+"الفردية (``'...'``) أو المزدوجة (``\"...\"``). الإختلاف الوحيد بين الاثنين هو أن داخل "
+"الأقباس الفردية لا تحتاج الهروب من ``\"`` (ولكن يجب الهروب من ``\\'``) والعكس صحيح."
 
 #: ../../tutorial/introduction.rst:20
 msgid "# (hash)"
@@ -1005,4 +1010,4 @@ msgstr ""
 
 #: ../../tutorial/introduction.rst:20
 msgid "comment"
-msgstr ""
+msgstr "تعليق"
